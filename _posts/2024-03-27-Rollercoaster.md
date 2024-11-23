@@ -2,7 +2,7 @@
 title: Rollercoaster
 date: 2024-03-27 00:00:00 +0800
 categories: [Projects]
-tags: [OpenGL, C++]     # TAG names should always be lowercase
+tags: [OpenGL, C++, GLSL]     # TAG names should always be lowercase
 
 description: Renders a roller coaster track using Catmull-Rom splines.
 image:
