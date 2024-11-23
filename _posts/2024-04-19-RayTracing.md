@@ -1,7 +1,7 @@
 ---
 title: Ray Tracing
 date: 2024-04-19 00:00:00 +0800
-categories: [Course Project]
+categories: [Projects]
 tags: [Ray Tracing, C++]     # TAG names should always be lowercase
 
 description: Designed and implemented ray tracing algorithms to accurately trace rays through complex scenes involving triangles and spheres. 
