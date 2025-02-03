@@ -6,10 +6,15 @@ tags: [OpenGL, C++, GLFW, GLSL]     # TAG names should always be lowercase
 
 description: A real-time tree generation system implemented in C++ and OpenGL
 image:
-  path: /assets/img/procedural_tree.png
+  path: /assets/img/DefaultTree.png
 ---
 
 A real-time tree generation system implemented in C++ and OpenGL, based on the space colonization algorithm from Runions et al. (2007). The program simulates tree growth by modeling the competition for space between branches, producing biologically plausible tree structures. Users can interactively adjust growth parameters and visualize the results through a navigable 3D camera system.
+
+{% 
+  include embed/youtube.html 
+  id='8xZXndt6QTs' 
+%}
 
 ### Key Technical Achievements:
 - Real-time camera controls with GLFW (zoom, pan, rotate)
